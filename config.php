@@ -2,6 +2,6 @@
 	$database = array(
 			 "driver" 	=> "mysql",
 			 "host" 	=> "localhost"
-			 "username" => "Foo"
+			 "username" => "username"
 			 "password" => "pass"
 		);
